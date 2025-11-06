@@ -10,6 +10,8 @@ The following columns exist in the dataset:
 - english_grade
 - english_score
 
+The table below contains a more detailed description:
+
 
 | Column Name  | Description | Data Type |
 | ------------- | ------------- | ------------- |
